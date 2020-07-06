@@ -3,5 +3,5 @@
 def main(msg):
     print(msg)
 
-main("Hello Peter")
+main("Hello People")
 
